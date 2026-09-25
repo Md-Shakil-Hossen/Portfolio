@@ -118,35 +118,9 @@
 
 ### <div align="center">*Domain Expertise*</div>
 
-<div align="center">
-
-mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'background': '#2c3e50',
-      'mainBkg': '#34495e',
-      'clusterBkg': '#2c3e50',
-
-      'primaryColor': '#3498db',
-      'primaryBorderColor': '#3498db',
-
-      'secondaryColor': '#9b59b6',
-      'tertiaryColor': '#27ae60',
-
-      'primaryTextColor': '#ecf0f1',
-      'nodeTextColor': '#ecf0f1',
-      'titleColor': '#ffffff',
-
-      'lineColor': '#bdc3c7',
-      'tertiaryBorderColor': '#e74c3c',
-      'edgeLabelBackground': '#34495e'
-    }
-  }
-}%%
+```mermaid
 mindmap
-  root((Data Analysis<br/>Ecosystem))
+  root((Data Analysis Ecosystem))
     Business Intelligence
       KPI Development
       Performance Metrics
@@ -167,9 +141,7 @@ mindmap
       Interactive Reports
       Data Storytelling
       Real-time Monitoring
-
-
-</div>
+```
 
 ---
 
@@ -180,7 +152,7 @@ mindmap
 | Achievement | Impact | Technology Stack |
 |:---|:---:|---:|
 | 🏏 *Business Analytics Framework* | Interactive insights for Products analytics | Power BI, SQL, Python |
-| ❤ *Price Prediction Model* | 86% accuracy  | Python, Scikit-learn, ML |
+| ❤ *Price Prediction Model* | 86% accuracy | Python, Scikit-learn, ML |
 | 📊 *Sales Performance System* | Real-time business intelligence | Power BI, SQL, DAX |
 | 🔄 *Data Processing Automation* | 80% reduction in processing time | Python, Pandas, Automation |
 | 📝 *Research Publications* | International conference papers | Statistical Analysis, Research |
@@ -194,7 +166,6 @@ mindmap
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </div>
-
 
 <div align="center">
 *"Data is the new oil, but insights are the refined fuel that drives business success."*
@@ -291,5 +262,5 @@ Open to internship opportunities • Available for collaborative projects • Re
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
